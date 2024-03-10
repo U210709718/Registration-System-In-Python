@@ -1,0 +1,4 @@
+CENG1234;Data Structures and Algorithms;Mark Twain;3
+CENG2345;Programming Languages;Mark Lutz;8
+CENG6789;Machine Learning;John Wick;0
+CENG5566;Java II;Mark welthon;0
